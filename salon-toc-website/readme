@@ -1,0 +1,15 @@
+ Heding 
+đây là tài liệu **hướng dẫn quản trị** dành cho hệ thống **
+| Thư mục | Nội dung | 
+| ---| --- |
+|docs |chứa tài liệu file text cập nhật |
+| logs | chứa các file log hệ thống |
+| media | chứa hình ảnh, logo |
+
+code liệt kê thư mục dự án :
+``` powershell
+Get-ChildItem -Recure -Force
+```
+- [x] tạo cấu trúc thứ mục bằng GUI
+- [ ] chạy script tự động báo cáo
+>**Blockquote nhắc không upload .env.**
